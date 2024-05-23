@@ -1,0 +1,5 @@
+setup.py
+ramancloud.egg-info/PKG-INFO
+ramancloud.egg-info/SOURCES.txt
+ramancloud.egg-info/dependency_links.txt
+ramancloud.egg-info/top_level.txt
